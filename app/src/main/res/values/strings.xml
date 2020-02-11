@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">NAAC Application</string>
+
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="about">
+
+        India has one of the largest and diverse education systems in the world.
+        Privatization, widespread expansion, increased autonomy and introduction of Programmes in new and emerging areas
+        have improved access to higher education. At the same time, it has also led to widespread concern on the quality
+        and relevance of the higher education. To address these concerns, the National Policy on Education (NPE, 1986) and
+        the Programme of Action (PoA, 1992) spelt out strategic plans for the policies, advocated the establishment of an
+        independent National accreditation agency. Consequently, the National Assessment and Accreditation Council (NAAC)
+        was established in 1994 as an autonomous institution of the University Grants Commission (UGC) with its Head Quarter
+        in Bengaluru. The mandate of NAAC as reflected in its vision statement is in making quality assurance an integral
+        part of the functioning of Higher Education Institutions (HEIs).
+
+    </string>
+
+    <string name="vision">
+
+        To make quality the defining element of higher education in India through a combination of self
+        and external quality evaluation, promotion and sustenance initiatives
+
+    </string>
+
+    <string name="mission">
+
+    1) To arrange for periodic assessment and accreditation of institutions of higher education or units thereof, or specific academic programmes or projects;\n
+    2) To stimulate the academic environment for promotion of quality of teaching-learning and research in higher education institutions;\n
+    3) To encourage self-evaluation, accountability, autonomy and innovations in higher education;\n
+    4) To undertake quality-related research studies, consultancy and training programmes,and\n
+    5) To collaborate with other stakeholders of higher education for quality evaluation, promotion and sustenance.\n
+
+    </string>
+
+    <string name="value_framework">
+
+
+To promote the following core values among the HEIs of the country:\n
+    1) Contributing to National Development\n
+    2) Fostering Global Competencies among Students\n
+    3) Inculcating a Value System among Students\n
+    4) Promoting the Use of Technology\n
+    5) Quest for Excellence\n
+
+    </string>
+
+    <string name="accreditation">
+
+    -> Institution to know its strengths, weaknesses, and opportunities through an informed review process.\n
+    -> Identification of internal areas of planning and resource allocation.\n
+    -> Collegiality on the campus.\n
+    -> Funding agencies look for objective data for performance funding.\n
+    -> Institutions to initiate innovative and modern methods of pedagogy.\n
+    -> New sense of direction and identity for institutions.\n
+    -> The society look for reliable information on quality education offered.\n
+    -> Employers look for reliable information on the quality of education offered to the prospective recruits.\n
+    -> Intra and inter-institutional interactions.\n
+
+    </string>
+
+    <string name="eligibility">
+
+        1. Universities (Central / State / Private / Deemed-to-be) and Institutions of National Importance\n
+
+        -> Provided the Institutions /Deemed to-be Universities and their off campuses if any are approved by MHRD/UGC. NAAC will not consider the unapproved off-campuses for A and A.\n
+        -> Provided that these institutions have regular students enrolled in to the full time teaching and Research programmes offered on campus.\n
+        -> Provided further that the duly established campuses within the country, if any, shall be treated as part of the Universities / Institutions of National Importance for the A and A process.\n
+        -> NAAC will not undertake the accreditation of off-shore campuses
+
+    </string>
+
+    <string name="assessment">
+
+2. Autonomous colleges /Constituent Colleges / Affiliated Colleges (affiliated to universities recognised by UGC as an affiliating University)\n
+
+   -> Provided the Colleges are affiliated to a University recognised by UGC for the purposes of affiliation. Constituent colleges of a Private and Deemed- to be Universities are considered as the constituent units of the University and thus will not be considered for A and A independently. Such constituent colleges need to come along with the University.\n
+   -> Provided the colleges / institutions not affiliated to a University are offering programmes recognized by Statutory Professional Regulatory Councils and have been recognised by Association of Indian Universities(AIU) or other such Government agencies concerned, as equivalent to a degree programme of a University.\n
+
+    </string>
+
+    <string name="grading">
+
+        Institutions are graded for each Key Aspect under four categories, viz. A, B, C and D, denoting Very good,
+        Good, Satisfactory and Unsatisfactory levels respectively. The summated score for all the Key Aspects under a
+        Criterion is thencalculated with the appropriate weightage applied to it and the GPA is worked out for the Criterion.
+        The Cumulative GPA (CGPA), which gives the final Assessment Outcome, is then calculated from the seven GPAs pertaining
+        to the seven criteria, after applying the prescribed weightage to each Criterion.
+
+    </string>
+
+    <string name="grievance">
+
+        he NAAC views the process of assessment and accreditation as an exercise in partnership, done jointly by the
+        NAAC and the institution being assessed. Every stage of the process is marked by transparency. The institution is
+        consulted at various stages of the process – eliminating conflict of interest with the peers, planning the visit
+        schedule, sharing the draft peer team report before the team leaves the campus etc. In spite of this participatory
+        approach, there may be institutions that might have grievances to be addressed. Therefore, to provide a review
+        mechanism for institutions who are aggrieved about the process or its outcome or
+        any other issues related thereof, the NAAC has evolved Grievance Redressal Guidelines.\n
+
+        On announcement of the A and A outcome, the institution not satisfied with the accreditation status may submit:\n
+
+    1) The letter of intent for appeal along with a request to provide the criterion wise scores so as to reach NAAC within 30 days from the receipt of the letter intimating the accreditation status from NAAC.\n
+    2 )The application for Appeal in the format prescribed by NAAC (refer Grievance Redressal Guidelines) should reach NAAC within 30 days from the date of receipt of the criterion wise scores from NAAC. The application for appeal should be submitted along with  the requisite non-refundable fee of Rs. 1,00,000/- plus service tax (GST @ 18%).\n
+
+
+
+    </string>
+
+
+</resources>
