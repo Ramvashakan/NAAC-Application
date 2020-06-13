@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         toolbar = findViewById(R.id.toolbar);
         drawerLayout1 = findViewById(R.id.drawer_layout1);
 
-        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawerLayout1, toolbar,
+            ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawerLayout1, toolbar,
                 R.string.navigation_drawer_open, R.string.navigation_drawer_close);
 
         drawerLayout1.addDrawerListener(toggle);
